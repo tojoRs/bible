@@ -11,7 +11,7 @@ Contributing
 
 Please use the following naming convention (lowercase):
 
-/[lanaguage code]/[osisIDWork].xml
+/[language code]/[osisIDWork].xml
 
 Additionally "_whatever" may be appended to the file base name if needed for clarification. For example "kjv_strongs.xml" for Strong's study version. "kjv_nt.xml" for New-Testament-only (if there is not already a osisIDWork for this specific version).
 
