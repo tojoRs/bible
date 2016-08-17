@@ -1,10 +1,9 @@
 OSIS Bibles
 ===========
 
-A collection of freely licensed translations of biblical text in OSIS formt.
+A collection of freely licensed translations of biblical text in OSIS format.
 
 More information on OSIS available here: http://www.bibletechnologies.net/
-
 
 Contributing
 ===========
